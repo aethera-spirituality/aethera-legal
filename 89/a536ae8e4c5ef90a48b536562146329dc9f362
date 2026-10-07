@@ -1,0 +1,23 @@
+index.html
+  s_f551532b19c751::t_857dea1611ac7b 1-41
+privacy-policy.html
+  s_f551532b19c751::t_363bf0a39c4b72 1-311
+styles.css
+  s_f551532b19c751::t_4879fe2dab9b19 1-146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "89a536ae8e4c5ef90a48b536562146329dc9f362",
+  "prompts": {},
+  "sessions": {
+    "s_f551532b19c751": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63b7d72e-4ad0-445c-9a8e-b701b9704737",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Viktoriia Lizunova <vik.liz97@atomicmail.io>"
+    }
+  }
+}
