@@ -1,0 +1,21 @@
+privacy-policy.html
+  s_f551532b19c751::t_3bd8b0a10a12f5 38,251-268,270-272
+terms-of-service.html
+  s_f551532b19c751::t_e04d0d55db50c2 64-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c7723d6ebcf2ed5ebb40ad89b1baaec85202ee98",
+  "prompts": {},
+  "sessions": {
+    "s_f551532b19c751": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63b7d72e-4ad0-445c-9a8e-b701b9704737",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Viktoriia Lizunova <vik.liz97@atomicmail.io>"
+    }
+  }
+}
